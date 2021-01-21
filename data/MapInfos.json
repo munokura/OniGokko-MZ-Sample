@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"1F-1","order":1,"parentId":0,"scrollX":534,"scrollY":305},
+{"id":1,"expanded":false,"name":"1F-1","order":1,"parentId":0,"scrollX":508,"scrollY":292.5},
 {"id":2,"expanded":false,"name":"1F-2","order":2,"parentId":0,"scrollX":534,"scrollY":319},
 {"id":3,"expanded":false,"name":"1F-3","order":3,"parentId":0,"scrollX":534,"scrollY":305},
 {"id":4,"expanded":false,"name":"1F-4","order":4,"parentId":0,"scrollX":534,"scrollY":319},
@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":false,"name":"1F-6","order":6,"parentId":0,"scrollX":534,"scrollY":305},
 {"id":7,"expanded":false,"name":"1F-7","order":7,"parentId":0,"scrollX":534,"scrollY":319},
 {"id":8,"expanded":false,"name":"1F-8","order":8,"parentId":0,"scrollX":507,"scrollY":327},
-{"id":9,"expanded":false,"name":"1F-9","order":9,"parentId":0,"scrollX":534,"scrollY":319}
+{"id":9,"expanded":false,"name":"1F-9","order":9,"parentId":0,"scrollX":508,"scrollY":319.5}
 ]
